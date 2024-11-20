@@ -1,0 +1,8 @@
+Objectifs :
+
+- classification audio
+- résumer vidéo
+- rechercher des mots dans une vidéo en temps réel
+- détection d'objets
+- estimation de pose
+- tracking
